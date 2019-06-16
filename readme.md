@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px height=500px src="https://imgur.com/UwuMEf4" alt="Project logo"></a>
+ <img width=600px height=500px src="https://i.imgur.com/UwuMEf4.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Elephant CRM</h3>
@@ -50,9 +50,6 @@ php artisan serve
 - [MySQL](https://www.mysql.com/) - Database
 - [Laravel](https://laravel.com/) - Web Framework
 - [CoreUI](https://coreui.io/) - UI
-
-## ✍️ Authors <a name = "authors"></a>
-- [@WilsonShrestha](https://github.com/wilsonshrestha) - Developer
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - CoreUI
