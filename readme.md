@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px height=500px src="https://i.imgur.com/UwuMEf4.png" alt="Project logo"></a>
+ <img width=100px height=100px src="https://i.imgur.com/UwuMEf4.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Elephant CRM</h3>
