@@ -8,7 +8,7 @@
     <meta name="description" content="CoreUI - Open Source Bootstrap Admin Template">
     <meta name="author" content="Łukasz Holeczek">
     <meta name="keyword" content="Bootstrap,Admin,Template,Open,Source,jQuery,CSS,HTML,RWD,Dashboard">
-    <title>CoreUI Free Bootstrap Admin Template</title>
+    <title>Elephant</title>
     <!-- Icons-->
     <link href="node_modules/@coreui/icons/css/coreui-icons.min.css" rel="stylesheet">
     <link href="node_modules/flag-icon-css/css/flag-icon.min.css" rel="stylesheet">
