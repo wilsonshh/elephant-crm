@@ -36,9 +36,7 @@ class ProjectController extends Controller
      */
     public function index()
     {
-        $projects = Project::where('user_id', auth()->user()->id)
-                                                    ->inRandomOrder()
-                                                    ->take(static::LIMIT)->get();
+        $projects = Project::inRandomOrder()->take(static::LIMIT)->get();
 
         return view('project.index',compact('projects'));
     }
