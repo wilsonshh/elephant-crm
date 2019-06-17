@@ -25,7 +25,7 @@ Elephant CRM is an open source software to manage a company's interaction with c
 
 Install dependencies
 ```
-npm install
+composer install
 ```
 
 Migrate database
@@ -45,6 +45,12 @@ Start
 ```
 php artisan serve
 ```
+
+## 🚀 Deployment
+Live demo on heroku
+
+- [Heroku](http://elephant-crm.herokuapp.com) - Live
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySQL](https://www.mysql.com/) - Database
