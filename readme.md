@@ -21,6 +21,9 @@ Elephant CRM is an open source software to manage a company's interaction with c
     <br> 
 </p>
 
+## 🎥 Demo / Working <a name = "demo"></a>
+![Working](https://media.giphy.com/media/TjSAfb1p6gzONlvCP9/giphy.gif)
+
 ### Installing
 
 Install dependencies
